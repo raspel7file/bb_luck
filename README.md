@@ -13,7 +13,8 @@ Python, pandas, matplotlib, seaborn
     <li>насколько значимо отличается удача каждого тренера от ожидаемого значения (0),</li>
     <li>насколько значимо отличается удача каждого тренера друг от друга,</li>
 </ul>
-визуализированные в виде картинки.  
+визуализированные в виде картинки. 
+
 ![picture](https://github.com/raspel7file/bb_luck/blob/main/95_ci_CL.jpeg)
 
 ## Results
@@ -22,5 +23,6 @@ Now we are able to answer following questions:
     <li>whether each coach's luck significantly differs from expected (0),</li>
     <li>whether coaches' luck significantly differ from each other,</li>
 </ul>
-visualized as a nice picture.  
-![picture](https://github.com/raspel7file/bb_luck/blob/main/95_ci_CL.jpeg)
+visualized as a nice picture. 
+
+![picture](95_ci_CL.jpeg)
