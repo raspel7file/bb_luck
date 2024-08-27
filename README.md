@@ -14,7 +14,7 @@ Python, pandas, matplotlib, seaborn
     <li>насколько значимо отличается удача каждого тренера друг от друга,</li>
 </ul>
 визуализированные в виде картинки.  
-![картинка](/95_ci_CL.jpeg)
+![picture](https://github.com/raspel7file/bb_luck/blob/main/95_ci_CL.jpeg)
 
 ## Results
 Now we are able to answer following questions:
@@ -23,4 +23,4 @@ Now we are able to answer following questions:
     <li>whether coaches' luck significantly differ from each other,</li>
 </ul>
 visualized as a nice picture.  
-![картинка](/95_ci_CL.jpeg)
+![picture](https://github.com/raspel7file/bb_luck/blob/main/95_ci_CL.jpeg)
