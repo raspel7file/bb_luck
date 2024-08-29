@@ -2,7 +2,7 @@
 "Blood Bowl" как игра содержит в себе значительный элемент удачи, так что вопрос об измерении удачи встаёт весьма часто. В этой работе я пытаюсь разработать методику оценки удачи тренеров, опирающуюся на анализ результатов их бросков кубов.
 
 ## Стек
-Python (pandas, matplotlib, seaborn)
+Python 3.11.7 (pandas, matplotlib, seaborn)
 
 ## Результат
 Результатом работы являются ответы на вопросы:
@@ -18,7 +18,7 @@ Python (pandas, matplotlib, seaborn)
 The game of "Blood Bowl" contains significant luck element, therefore it often raises question of assessment said luck. In this work I try to develop a method for estimating coaches' luck, based on their dice rolls.
 
 ## Stack
-Python (pandas, matplotlib, seaborn)
+Python 3.11.7 (pandas, matplotlib, seaborn)
 
 ## Results
 Now we are able to answer following questions:
