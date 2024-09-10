@@ -28,7 +28,7 @@ The game of "Blood Bowl" contains significant luck element, therefore it often r
 ## Stack
 Python 3.11.7 (pandas, matplotlib, seaborn)
 
-##  Workflow
+## Workflow
 I introduce and count "luck" metric for every dice roll, and mathematically prove, that as the number of dice rolls approaches infinity, the total luck of each coach should approach 0.  
 
 After that, I calculate the actual values ​​of the total luck of each coach in the match, use the bootstrap to determine their confidence intervals and, based on this, draw a conclusion about the statistical significance of their differences.
