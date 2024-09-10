@@ -1,5 +1,5 @@
 # Статистический метод оценки удачи в игре "Blood Bowl"
-[English description below](https://github.com/raspel7file/bb_luck/edit/main/README.md#blood-bowl-luck-assessment-method)
+[English description below](#Blood-Bowl-Luck-Assessment-Method)
 ## Задача/цель работы
 "Blood Bowl" как игра содержит в себе значительный элемент удачи, так что вопрос об измерении удачи встаёт весьма часто. В этой работе я пытаюсь разработать методику оценки удачи тренеров, опирающуюся на анализ результатов их бросков кубов.
 
